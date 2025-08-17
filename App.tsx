@@ -8,6 +8,7 @@ import MainPage from './pages/MainPage';
 import RankingPage from './pages/RankingPage';
 import MyPage from './pages/MyPage';
 import AboutModal from './components/AboutModal';
+import { Providers } from './providers';
 
 type Page = 'ranking' | 'main' | 'my';
 
