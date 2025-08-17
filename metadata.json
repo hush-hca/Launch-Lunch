@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LaunchLunch",
+  "description": "A Farcaster mini-app that recommends food menus by spinning a roulette wheel. Users get free daily spins and can earn virtual points.",
+  "requestFramePermissions": []
+}
